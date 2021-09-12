@@ -1,10 +1,11 @@
 <!-- ABOUT PROJECT -->
 ## Gradient Category List
 
-![Product Screen Shot][product-screenshot]
-Beautiful Gradient Category List with hover details.
+![Product Screen Shot][product-screenshot] <br/>
 
-### Built With
+<h3> Beautiful Gradient Category List with hover details.</h3>
+
+### Built With -
 
 * HTML
 * CSS
